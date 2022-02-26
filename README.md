@@ -23,5 +23,3 @@ Copy your downloaded mod to the folder you just created.
 Start the game and enjoy.
 
 This was built with Icarus version 1.1.3.91832
-
-Please leave comins below.
