@@ -19,7 +19,7 @@ move down to Manage and select Browse local files.
 Open the Icarus folder you see just above the Icarus exicutable file.
 Open the Content folder and then the Paks folder.
 Right click and create a subfolder named "mods" all lower case.
-Copy your downloaded mod to the foldeer you just created.
+Copy your downloaded mod to the folder you just created.
 Start the game and enjoy.
 
 This was built with Icarus version 1.1.3.91832
