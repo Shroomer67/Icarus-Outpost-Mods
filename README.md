@@ -22,4 +22,6 @@ Right click and create a subfolder named "mods" all lower case.
 Copy your downloaded mod to the foldeer you just created.
 Start the game and enjoy.
 
+This was built with Icarus version 1.1.3.91832
+
 Please leave comins below.
