@@ -27,3 +27,4 @@ This was built with Icarus Version: : 1.1.5.92602 (Week Fourteen Content Update)
 
 Updated 3/15/2022
 Corrected Drop spots on map and a issue with some players getting it to work
+**  Full_Map_Outpost_P.pak has been updated  **
