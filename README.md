@@ -1,6 +1,6 @@
 # Icarus-Outpost-Mods
 
-Right now I only have two mods for outopst. Intended for offline play (use at your own risk online)
+Right now I only have three mods for outopst. Intended for offline play (use at your own risk online)
 
 Full_Map_Outposts_P.pak mod will include the full map playable as a outpost.
 By selecting Arcwood you will drop in at the Beachead Recon Drop Zone.
