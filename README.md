@@ -29,5 +29,9 @@ Updated 3/15/2022
 Corrected Drop spots on map and a issue with some players getting it to work
 **  Full_Map_Outpost_P.pak has been updated  **
 
-Updated 3/16/2020
+Updated 3/16/2022
 I will not reply to any questions for online play. This mod was designed with OFFLINE outpost in mind. Please do not use this mod online, You may be the cause of another player loosing his Character (Toon). You can not predict what it could cause online so again please do not use this mod online. If you share the mod with someone please make sure they understand that they should not use this for online play. 
+
+Updated 3/17/2022
+Added a special Exprimental reg outpost mod for special creatures some work some don't but that should get fixed soon. Have fun with it.
+I will update this mod at some point, unless I get requsts through discord then I may do more work on it at some point.
