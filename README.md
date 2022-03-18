@@ -10,6 +10,8 @@ Weather is set to the lowest wilth damage (LightWeather). Experience is set to 1
 
 Live Outposts_P.pak keeps the standard outposts but adds 100% XP, weather (lightWeather), Bitting fish, Cave worms, And all the typical animals of the full Biome.
 
+Extra Creatures Outpost_P.pak mod for special creatures some work some don't but that should get fixed soon. Have fun with it.
+
 When you download the file you have to place it inside the mods folder in Icarus
 
 The file will be in your Downloads folder unless you specifed somewhere else.
