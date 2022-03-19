@@ -1,5 +1,7 @@
 # Icarus-Outpost-Mods
 
+Discord to get help with other mods https://discord.gg/2UrWDXjxUk
+
 Right now I only have three mods for outopst. Intended for offline play (use at your own risk online)
 
 Full_Map_Outposts_P.pak mod will include the full map playable as a outpost.
