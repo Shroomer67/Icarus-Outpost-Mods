@@ -39,3 +39,5 @@ I will not reply to any questions for online play. This mod was designed with OF
 Updated 3/17/2022
 Added a special Exprimental reg outpost mod for special creatures some work some don't but that should get fixed soon. Have fun with it.
 I will update this mod at some point, unless I get requsts through discord then I may do more work on it at some point.
+
+Updated 3/20/2022 Added new fish to Extra Creatures Outpost and Updated all to current version as of today.
