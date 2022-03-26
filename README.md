@@ -41,3 +41,5 @@ Added a special Exprimental reg outpost mod for special creatures some work some
 I will update this mod at some point, unless I get requsts through discord then I may do more work on it at some point.
 
 Updated 3/20/2022 Added new fish to Extra Creatures Outpost and Updated all to current version as of today.
+
+Updated 3/26/2022 Added Scorpions and updated to version 1.1.7.93327 Week Sixteen.
