@@ -43,3 +43,5 @@ I will update this mod at some point, unless I get requsts through discord then 
 Updated 3/20/2022 Added new fish to Extra Creatures Outpost and Updated all to current version as of today.
 
 Updated 3/26/2022 Added Scorpions and updated to version 1.1.7.93327 Week Sixteen.
+
+Updated 4/8/2022 Updated to Week 18 version 1.1.9.94146.
